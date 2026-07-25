@@ -1,18 +1,17 @@
 # Customer Shopping Behavior Analysis (End-to-End Data Analytics Project)
----
 
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
 2. [Business Background](#2-Business-Background)
 3. [Business Problem](#3-Business-Problem)
-4. [Dataset](#4-Dataset)
+4. [Business Objectives](#4-Business-Objectives)
 5. [Tools & Technologies](#5-Tools--Technologies)
 6. [Dashboard](#6-Dashboard)
 7. [Key Insights](#7-Key-Insights)
 8. [Business Recommendations](#8-Business-Recommendations)
 9. [Challenges & Limitations](#9-Challenges--Limitations)
-14. [Author](#14-author)
+10. [Author](#10-author)
 
 ---
 
@@ -22,7 +21,6 @@ This end-to-end data analytics project analyzes customer shopping behavior using
 
 The project demonstrates the complete analytics workflow—from data cleaning and preparation in Python, business analysis using SQL, and interactive dashboard development in Power BI. The final deliverables include a comprehensive report, business recommendations, and a well-structured GitHub repository containing all project files.
 
----
 
 ## 2. Business Background
 
@@ -30,7 +28,6 @@ The retail industry is becoming increasingly customer-driven, requiring business
 
 By analyzing customer shopping data, retailers can better understand what drives customer engagement, identify high-value customer segments, improve product positioning, and develop more effective marketing strategies.
 
----
 
 ## 3. Business Problem
 
@@ -41,53 +38,30 @@ The primary business question was:
 How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
 
-## 3. Objectives
+## 4. Business Objectives
 
-<!--
-  Write objectives that are specific enough to succeed or fail.
-  Use action-oriented verbs: Identify, Determine, Quantify, Build, Evaluate.
+The primary objectives of this project are to:
 
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Determine whether customer churn rate correlates with support ticket volume."
-  ✅ "Identify the top three revenue-driving product categories across all regions."
-  ✅ "Build a reproducible pipeline that ingests and cleans daily sales exports."
-
-  WHAT TO AVOID:
-  ❌ "Explore the data."
-  ❌ "Gain insights."
-  ❌ "Understand trends."
-  (These can't fail - which means they can't succeed either.)
--->
-
-- **Primary Objective:** [The main thing you set out to do]
-- **Secondary Objective 1:** [Supporting goal]
-- **Secondary Objective 2:** [Supporting goal]
-- **Secondary Objective 3:** [Remove if not applicable]
-
-> 💡 *Every analysis decision in this project traces back to one of these objectives.*
-
----
-
-## 3. Project Scope & Tools
+- Analyze customer shopping behavior to identify purchasing patterns and trends.
+- Understand how customer demographics influence buying decisions and spending habits.
+- Evaluate the impact of discounts, subscriptions, customer reviews, and shipping preferences on purchasing behavior.
+- Identify high-value customer segments to support targeted marketing and customer retention strategies.
+- Determine the best-performing products and categories based on customer purchasing behavior and review ratings.
+- Examine seasonal purchasing trends to support inventory planning and promotional campaigns.
+- Provide interactive visualizations that enable stakeholders to monitor key performance indicators and make data-driven decisions.
 
 
-### Tools & Technologies
-
-<!--
-  List only what you actually used on this project.
-  This is not your skills section - it's the project's technical context.
--->
+### 5. Tools & Technologies
 
 | Tool | Purpose|
 |----------|-------------|
-| Python (Pandas) | [Data Cleaning & Preparation] |
-| MySQL | [Data Storage & Business Analysis] |
-| SQL | [Business Queries & Insight Generation] |
-| Power BI| [Dashboard Development & Data Visualization] |
+| Python (Pandas) | Data Cleaning & Preparation |
+| MySQL | Data Storage & Business Analysis |
+| SQL | Business Queries & Insight Generation |
+| Power BI| Dashboard Development & Data Visualization |
 
----
 
-## 4. Methodology
+## 6. Methodology
 ### 1. Data Preparation (Python)
 The raw dataset was cleaned and transformed to ensure data quality before analysis.
 
@@ -142,7 +116,7 @@ The dashboard enables stakeholders to:
 - Identify top-performing products
 - Explore seasonal purchasing patterns
 
-  ## Key Insights
+  ## 7. Key Insights
 
   The analysis revealed several important business insights:
 
@@ -154,7 +128,7 @@ The dashboard enables stakeholders to:
 - Revenue contribution differs across age groups, enabling more focused customer segmentation.
 - Shipping preferences influence purchase behavior, with differences observed between Standard and Express shipping customers.
   
-## Business Recommendations
+## 8. Business Recommendations
 
 Based on the analysis, the following recommendations were made:
 
@@ -182,7 +156,7 @@ Use customer demographics, purchasing behavior, and age groups to create targete
 
 Leverage insights from customer shipping preferences to optimize delivery options and enhance the customer experience.
 
-## Challenges & Limitations
+## 9. Challenges & Limitations
 
 ### Challenges
 Missing values in the Review Rating column required appropriate imputation.
@@ -196,13 +170,12 @@ External factors such as economic conditions and competitor activities were not 
 
 ---
 
-## 14. Author
+## 10. Author
 
-**[Thene Tlotliso]**
-[Your role or title - current or target]
+**Thene Tlotliso**
 
 - 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
+- 💼 [[Portfolio or GitHub profile URL]](https://tlotlisothene.github.io/)
 - 📧 [thenetlotliso@gmail.com]
 
 ---
