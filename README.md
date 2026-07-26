@@ -19,8 +19,7 @@
 
 This end-to-end data analytics project analyzes customer shopping behavior using transactional data from 3,900 purchases across multiple product categories. The objective was to transform raw customer data into actionable business insights that help improve customer engagement, optimize marketing strategies, and support data-driven decision-making.
 
-The project demonstrates the complete analytics workflow—from data cleaning and preparation in Python, business analysis using SQL, and interactive dashboard development in Power BI. The final deliverables include a comprehensive report, business recommendations, and a well-structured GitHub repository containing all project files.
-
+The project demonstrates the complete analytics workflow—from data cleaning and preparation in Python, business analysis using SQL, and interactive dashboard development in Power BI.
 
 ## 2. Business Background
 
