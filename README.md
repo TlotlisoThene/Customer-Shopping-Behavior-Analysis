@@ -34,7 +34,7 @@ A leading retail company observed changing purchasing patterns across customer d
 
 The primary business question was:
 
-How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
+#### How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
 
 ## 4. Business Objectives
