@@ -73,6 +73,15 @@ The raw dataset was cleaned and transformed to ensure data quality before analys
 - Standardized column names to snake_case
 - Checked for duplicate and redundant information
 - Removed the promo_code_used column after confirming it duplicated the discount information
+
+<img width="1920" height="1080" alt="info()" src="https://github.com/user-attachments/assets/b73495b0-4158-4ede-87b1-676891875368" />
+<img width="1471" height="626" alt="describe()" src="https://github.com/user-attachments/assets/d9696adc-ca7e-4f3b-9393-f032a9e684ea" />
+
+<img width="1376" height="522" alt="Screenshot (888)" src="https://github.com/user-attachments/assets/b78a2237-aa7c-4e32-be75-eb7c6ace804b" />
+<img width="1458" height="288" alt="Screenshot (889)" src="https://github.com/user-attachments/assets/24b8efbf-d828-49fe-9652-c7bc70e5324d" />
+
+
+
   
 ### Feature Engineering
 
@@ -101,7 +110,9 @@ The analysis included:
 - Top-performing products within each category
 - Relationship between repeat purchases and subscriptions
 - Revenue contribution by age group
-  
+  <img width="808" height="180" alt="Screenshot (913)" src="https://github.com/user-attachments/assets/3ac4468a-5986-4d05-9d81-26318a950370" />
+<img width="843" height="174" alt="Screenshot (914)" src="https://github.com/user-attachments/assets/39643321-75a9-403d-8fec-785e5aacaf18" />
+
 ### 3. Dashboard Development (Power BI)
 
 An interactive Power BI dashboard was developed to communicate insights through intuitive visualizations.
@@ -115,6 +126,7 @@ The dashboard enables stakeholders to:
 - Evaluate discount effectiveness
 - Identify top-performing products
 - Explore seasonal purchasing patterns
+<img width="1375" height="768" alt="Customer B" src="https://github.com/user-attachments/assets/1085c3c8-5de6-48e5-a6cf-855bb593387f" />
 
   ## 7. Key Insights
 
