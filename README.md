@@ -92,7 +92,7 @@ Created new variables to improve analysis:
   
 ### Database Integration
 
-- After cleaning, the dataset was connected to PostgreSQL, where the transformed data was loaded for structured SQL analysis.
+- After cleaning, the dataset was connected to MySQL, where the transformed data was loaded for structured SQL analysis.
 
 ### 2. Data Analysis (SQL)
 
@@ -110,7 +110,7 @@ The analysis included:
 - Top-performing products within each category
 - Relationship between repeat purchases and subscriptions
 - Revenue contribution by age group
-  <img width="808" height="180" alt="Screenshot (913)" src="https://github.com/user-attachments/assets/3ac4468a-5986-4d05-9d81-26318a950370" />
+<img width="808" height="180" alt="Screenshot (913)" src="https://github.com/user-attachments/assets/3ac4468a-5986-4d05-9d81-26318a950370" />
   
 <img width="843" height="174" alt="Screenshot (914)" src="https://github.com/user-attachments/assets/39643321-75a9-403d-8fec-785e5aacaf18" />
 
@@ -190,8 +190,4 @@ External factors such as economic conditions and competitor activities were not 
 - 🔗 [LinkedIn URL]
 - 💼 [[Portfolio or GitHub profile URL]](https://tlotlisothene.github.io/)
 - 📧 [thenetlotliso@gmail.com]
-
----
-
-*Last updated: [July 2026]*
 
